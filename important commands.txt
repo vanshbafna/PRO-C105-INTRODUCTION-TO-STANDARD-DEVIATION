@@ -1,0 +1,2 @@
+C:\Users\HP>python D:\projects_vansh\module3\PROJ105\std_deviation.py
+17.093208527885505 
